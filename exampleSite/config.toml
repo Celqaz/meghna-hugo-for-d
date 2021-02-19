@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "鼎盛合创投资管理"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -43,52 +43,46 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "关于我们"
 pre = "#"
 url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "专业服务"
 pre = "#"
 url = "services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "投资组合"
 pre = "#"
 url = "portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "团队成员"
 pre = "#"
 url = "team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "pricing"
+# pre = "#"
+# url = "pricing"
+# weight = 5
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "最新动态"
 pre = "#"
 url = "blog"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "联系我们"
 pre = "#"
 url = "contact"
 weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 
 
 ################### French Navigation ########################

@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "创业者背后的创业者"
+  content : "致力于发掘和培育产业界的「参天大树」"
   button:
     enable : true
-    label : "Explore Us"
+    label : "了解更多"
     link : "#services"

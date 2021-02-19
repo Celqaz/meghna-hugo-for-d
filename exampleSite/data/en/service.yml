@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : 专业服务
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : 专业服务
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
       
     # service item loop
-    - name : Responsive Design
+    - name : 专业服务
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : 专业服务
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
       
     # service item loop
-    - name : Graphic Design
+    - name : 专业服务
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
       
     # service item loop
-    - name : Apps Development
+    - name : 专业服务
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
       
     # service item loop
-    - name : Networking
+    - name : 专业服务
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : 致力于帮助创业者成就基业长青的伟大公司，为成员企业带来丰富的全球资源和宝贵的历史经验。
